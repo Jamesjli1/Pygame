@@ -1,3 +1,7 @@
+# Author: James Li
+# Simple Snake Game using Pygame
+# Last Modified: October 20, 2025
+
 # Import pygame which makes it easy to create games by displaying graphics and handling user input 
 import pygame
 """
